@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/bin/Debug/net9.0/PlayWithDictonarys
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/bin/Debug/net9.0/PlayWithDictonarys.deps.json
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/bin/Debug/net9.0/PlayWithDictonarys.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/bin/Debug/net9.0/PlayWithDictonarys.dll
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/bin/Debug/net9.0/PlayWithDictonarys.pdb
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/obj/Debug/net9.0/PlayWithDictonarys.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/obj/Debug/net9.0/PlayWithDictonarys.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/obj/Debug/net9.0/PlayWithDictonarys.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/obj/Debug/net9.0/PlayWithDictonarys.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/obj/Debug/net9.0/PlayWithDictonarys.dll
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/obj/Debug/net9.0/refint/PlayWithDictonarys.dll
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/obj/Debug/net9.0/PlayWithDictonarys.pdb
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/obj/Debug/net9.0/PlayWithDictonarys.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/PlayWithDictonarys/obj/Debug/net9.0/ref/PlayWithDictonarys.dll

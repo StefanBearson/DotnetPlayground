@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/bin/Debug/net9.0/LeetCodeFun
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/bin/Debug/net9.0/LeetCodeFun.deps.json
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/bin/Debug/net9.0/LeetCodeFun.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/bin/Debug/net9.0/LeetCodeFun.dll
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/bin/Debug/net9.0/LeetCodeFun.pdb
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.dll
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/refint/LeetCodeFun.dll
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.pdb
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/ref/LeetCodeFun.dll

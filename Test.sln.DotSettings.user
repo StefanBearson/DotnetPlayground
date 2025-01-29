@@ -1,0 +1,46 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003A02000002pdb6High_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003FILViewer_003Ff6bfaefc9a0f4aa38484fc829c03e7f92a00_003F8b_003F22156302_003F02000002pdb6High_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003A02000002pdb6Low_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003FILViewer_003Ff6bfaefc9a0f4aa38484fc829c03e7f92a00_003F8b_003F22156302_003F02000002pdb6Low_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003A02000004pdb8Low_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003FILViewer_003Ff6bfaefc9a0f4aa38484fc829c03e7f92a00_003Fe4_003Fd9f01989_003F02000004pdb8Low_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003A02000004pdb8Low_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003FILViewer_003Ff87942957fc2474c99345b56e999687d2c00_003Fab_003F991bdd1a_003F02000004pdb8Low_002Ecs_002Fz_003A2_002D1/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AEventArgs_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F97b5ae3af8663a94524477e92e8ff86ff1d035b8804cb4c2cd174c20ee2529_003FEventArgs_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AThrowHelpers_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FLibrary_003FApplication_0020Support_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fd37356fea9ed307068a31dc8ca3e5c5723187a9f164d0d76fc81bbf46f5_003FThrowHelpers_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7d12a6d4_002D9b05_002D4f05_002D8ebd_002D2c2bc0b930da/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChangeNameTo_WhenNameIsErik_ThrowsException #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests.ChangeNameTo_WhenNameIsErik_ThrowsException&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=83ae3f7a_002Ded7f_002D4a1b_002D9ade_002Df114161db060/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;And&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+      &lt;Test&gt;
+        &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests.ChangeNameTo_WhenNameIsErik_ThrowsException&lt;/TestId&gt;
+        &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests&lt;/TestId&gt;
+        &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests.ChangeNameTo_WhenNameIsNotSture_ChangesNameToNewName&lt;/TestId&gt;
+        &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests.ChangeNameTo_WhenNameIsEmpty_ChangesNameToJohnDoe&lt;/TestId&gt;
+      &lt;/Test&gt;
+    &lt;/And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests.ChangeNameTo_WhenAgeIsLessThan18_ChangesNameToChild&lt;/TestId&gt;
+      &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests.CheckName_WhenNameIsKalle_ReturnsTrue&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b0f84fd3_002Dd529_002D4522_002D9df6_002Dd4bf7184abf3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChangeNameTo_WhenNameIsErik_ThrowsException #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b5360f08_002Df77e_002D4d9c_002D8341_002Dc7af0f2d3434/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ChangeNameTo_WhenNameIsErik_ThrowsException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests.ChangeNameTo_WhenNameIsErik_ThrowsException&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c6d3411f_002De53e_002D4af1_002Db496_002D7e34b78cedc7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ChangeNameTo_WhenNameIsErik_ThrowsException #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::452CFA93-8C62-4213-9930-BD6ACDBF2EB9::net9.0::PlayWithXUnit.tests.PlayWithXUnitTests.ChangeNameTo_WhenNameIsErik_ThrowsException&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

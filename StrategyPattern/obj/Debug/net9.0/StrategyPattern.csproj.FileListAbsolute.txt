@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/StrategyPattern/bin/Debug/net9.0/StrategyPattern
+/Users/sb/dotnetPlayground/Test/StrategyPattern/bin/Debug/net9.0/StrategyPattern.deps.json
+/Users/sb/dotnetPlayground/Test/StrategyPattern/bin/Debug/net9.0/StrategyPattern.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/StrategyPattern/bin/Debug/net9.0/StrategyPattern.dll
+/Users/sb/dotnetPlayground/Test/StrategyPattern/bin/Debug/net9.0/StrategyPattern.pdb
+/Users/sb/dotnetPlayground/Test/StrategyPattern/obj/Debug/net9.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/StrategyPattern/obj/Debug/net9.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/StrategyPattern/obj/Debug/net9.0/StrategyPattern.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/StrategyPattern/obj/Debug/net9.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/StrategyPattern/obj/Debug/net9.0/StrategyPattern.dll
+/Users/sb/dotnetPlayground/Test/StrategyPattern/obj/Debug/net9.0/refint/StrategyPattern.dll
+/Users/sb/dotnetPlayground/Test/StrategyPattern/obj/Debug/net9.0/StrategyPattern.pdb
+/Users/sb/dotnetPlayground/Test/StrategyPattern/obj/Debug/net9.0/StrategyPattern.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/StrategyPattern/obj/Debug/net9.0/ref/StrategyPattern.dll

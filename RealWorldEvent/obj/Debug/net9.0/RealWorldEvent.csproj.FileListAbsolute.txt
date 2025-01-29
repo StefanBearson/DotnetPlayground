@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/bin/Debug/net9.0/RealWorldEvent
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/bin/Debug/net9.0/RealWorldEvent.deps.json
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/bin/Debug/net9.0/RealWorldEvent.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/bin/Debug/net9.0/RealWorldEvent.dll
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/bin/Debug/net9.0/RealWorldEvent.pdb
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/obj/Debug/net9.0/RealWorldEvent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/obj/Debug/net9.0/RealWorldEvent.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/obj/Debug/net9.0/RealWorldEvent.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/obj/Debug/net9.0/RealWorldEvent.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/obj/Debug/net9.0/RealWorldEvent.dll
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/obj/Debug/net9.0/refint/RealWorldEvent.dll
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/obj/Debug/net9.0/RealWorldEvent.pdb
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/obj/Debug/net9.0/RealWorldEvent.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/RealWorldEvent/obj/Debug/net9.0/ref/RealWorldEvent.dll

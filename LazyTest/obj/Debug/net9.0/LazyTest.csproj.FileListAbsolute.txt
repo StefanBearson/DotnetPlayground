@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/LazyTest/bin/Debug/net9.0/LazyTest
+/Users/sb/dotnetPlayground/Test/LazyTest/bin/Debug/net9.0/LazyTest.deps.json
+/Users/sb/dotnetPlayground/Test/LazyTest/bin/Debug/net9.0/LazyTest.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/LazyTest/bin/Debug/net9.0/LazyTest.dll
+/Users/sb/dotnetPlayground/Test/LazyTest/bin/Debug/net9.0/LazyTest.pdb
+/Users/sb/dotnetPlayground/Test/LazyTest/obj/Debug/net9.0/LazyTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/LazyTest/obj/Debug/net9.0/LazyTest.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/LazyTest/obj/Debug/net9.0/LazyTest.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/LazyTest/obj/Debug/net9.0/LazyTest.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/LazyTest/obj/Debug/net9.0/LazyTest.dll
+/Users/sb/dotnetPlayground/Test/LazyTest/obj/Debug/net9.0/refint/LazyTest.dll
+/Users/sb/dotnetPlayground/Test/LazyTest/obj/Debug/net9.0/LazyTest.pdb
+/Users/sb/dotnetPlayground/Test/LazyTest/obj/Debug/net9.0/LazyTest.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/LazyTest/obj/Debug/net9.0/ref/LazyTest.dll

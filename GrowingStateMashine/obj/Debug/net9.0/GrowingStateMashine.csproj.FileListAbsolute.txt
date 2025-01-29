@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/bin/Debug/net9.0/GrowingStateMashine
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/bin/Debug/net9.0/GrowingStateMashine.deps.json
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/bin/Debug/net9.0/GrowingStateMashine.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/bin/Debug/net9.0/GrowingStateMashine.dll
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/bin/Debug/net9.0/GrowingStateMashine.pdb
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/obj/Debug/net9.0/GrowingStateMashine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/obj/Debug/net9.0/GrowingStateMashine.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/obj/Debug/net9.0/GrowingStateMashine.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/obj/Debug/net9.0/GrowingStateMashine.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/obj/Debug/net9.0/GrowingStateMashine.dll
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/obj/Debug/net9.0/refint/GrowingStateMashine.dll
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/obj/Debug/net9.0/GrowingStateMashine.pdb
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/obj/Debug/net9.0/GrowingStateMashine.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/GrowingStateMashine/obj/Debug/net9.0/ref/GrowingStateMashine.dll

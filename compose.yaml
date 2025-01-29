@@ -1,0 +1,6 @@
+﻿services:
+  playwithdictonarys:
+    image: playwithdictonarys
+    build:
+      context: .
+      dockerfile: PlayWithDictonarys/Dockerfile

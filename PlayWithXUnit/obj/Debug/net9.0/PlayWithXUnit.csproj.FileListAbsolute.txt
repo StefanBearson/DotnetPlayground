@@ -1,0 +1,11 @@
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/PlayWithXUnit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/PlayWithXUnit.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/PlayWithXUnit.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/PlayWithXUnit.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/bin/Debug/net9.0/PlayWithXUnit.deps.json
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/bin/Debug/net9.0/PlayWithXUnit.dll
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/bin/Debug/net9.0/PlayWithXUnit.pdb
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/PlayWithXUnit.dll
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/refint/PlayWithXUnit.dll
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/PlayWithXUnit.pdb
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/ref/PlayWithXUnit.dll

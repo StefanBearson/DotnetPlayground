@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/OutAndRef/bin/Debug/net9.0/OutAndRef
+/Users/sb/dotnetPlayground/Test/OutAndRef/bin/Debug/net9.0/OutAndRef.deps.json
+/Users/sb/dotnetPlayground/Test/OutAndRef/bin/Debug/net9.0/OutAndRef.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/OutAndRef/bin/Debug/net9.0/OutAndRef.dll
+/Users/sb/dotnetPlayground/Test/OutAndRef/bin/Debug/net9.0/OutAndRef.pdb
+/Users/sb/dotnetPlayground/Test/OutAndRef/obj/Debug/net9.0/OutAndRef.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/OutAndRef/obj/Debug/net9.0/OutAndRef.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/OutAndRef/obj/Debug/net9.0/OutAndRef.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/OutAndRef/obj/Debug/net9.0/OutAndRef.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/OutAndRef/obj/Debug/net9.0/OutAndRef.dll
+/Users/sb/dotnetPlayground/Test/OutAndRef/obj/Debug/net9.0/refint/OutAndRef.dll
+/Users/sb/dotnetPlayground/Test/OutAndRef/obj/Debug/net9.0/OutAndRef.pdb
+/Users/sb/dotnetPlayground/Test/OutAndRef/obj/Debug/net9.0/OutAndRef.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/OutAndRef/obj/Debug/net9.0/ref/OutAndRef.dll

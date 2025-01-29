@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/EventSource/bin/Debug/net9.0/EventSource
+/Users/sb/dotnetPlayground/Test/EventSource/bin/Debug/net9.0/EventSource.deps.json
+/Users/sb/dotnetPlayground/Test/EventSource/bin/Debug/net9.0/EventSource.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/EventSource/bin/Debug/net9.0/EventSource.dll
+/Users/sb/dotnetPlayground/Test/EventSource/bin/Debug/net9.0/EventSource.pdb
+/Users/sb/dotnetPlayground/Test/EventSource/obj/Debug/net9.0/EventSource.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/EventSource/obj/Debug/net9.0/EventSource.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/EventSource/obj/Debug/net9.0/EventSource.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/EventSource/obj/Debug/net9.0/EventSource.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/EventSource/obj/Debug/net9.0/EventSource.dll
+/Users/sb/dotnetPlayground/Test/EventSource/obj/Debug/net9.0/refint/EventSource.dll
+/Users/sb/dotnetPlayground/Test/EventSource/obj/Debug/net9.0/EventSource.pdb
+/Users/sb/dotnetPlayground/Test/EventSource/obj/Debug/net9.0/EventSource.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/EventSource/obj/Debug/net9.0/ref/EventSource.dll

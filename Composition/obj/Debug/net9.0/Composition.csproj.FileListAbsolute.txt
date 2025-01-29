@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/Composition/bin/Debug/net9.0/Composition
+/Users/sb/dotnetPlayground/Test/Composition/bin/Debug/net9.0/Composition.deps.json
+/Users/sb/dotnetPlayground/Test/Composition/bin/Debug/net9.0/Composition.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/Composition/bin/Debug/net9.0/Composition.dll
+/Users/sb/dotnetPlayground/Test/Composition/bin/Debug/net9.0/Composition.pdb
+/Users/sb/dotnetPlayground/Test/Composition/obj/Debug/net9.0/Composition.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/Composition/obj/Debug/net9.0/Composition.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/Composition/obj/Debug/net9.0/Composition.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/Composition/obj/Debug/net9.0/Composition.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/Composition/obj/Debug/net9.0/Composition.dll
+/Users/sb/dotnetPlayground/Test/Composition/obj/Debug/net9.0/refint/Composition.dll
+/Users/sb/dotnetPlayground/Test/Composition/obj/Debug/net9.0/Composition.pdb
+/Users/sb/dotnetPlayground/Test/Composition/obj/Debug/net9.0/Composition.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/Composition/obj/Debug/net9.0/ref/Composition.dll

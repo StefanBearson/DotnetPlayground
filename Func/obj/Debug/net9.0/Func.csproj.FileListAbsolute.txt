@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/Func/bin/Debug/net9.0/Func
+/Users/sb/dotnetPlayground/Test/Func/bin/Debug/net9.0/Func.deps.json
+/Users/sb/dotnetPlayground/Test/Func/bin/Debug/net9.0/Func.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/Func/bin/Debug/net9.0/Func.dll
+/Users/sb/dotnetPlayground/Test/Func/bin/Debug/net9.0/Func.pdb
+/Users/sb/dotnetPlayground/Test/Func/obj/Debug/net9.0/Func.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/Func/obj/Debug/net9.0/Func.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/Func/obj/Debug/net9.0/Func.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/Func/obj/Debug/net9.0/Func.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/Func/obj/Debug/net9.0/Func.dll
+/Users/sb/dotnetPlayground/Test/Func/obj/Debug/net9.0/refint/Func.dll
+/Users/sb/dotnetPlayground/Test/Func/obj/Debug/net9.0/Func.pdb
+/Users/sb/dotnetPlayground/Test/Func/obj/Debug/net9.0/Func.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/Func/obj/Debug/net9.0/ref/Func.dll

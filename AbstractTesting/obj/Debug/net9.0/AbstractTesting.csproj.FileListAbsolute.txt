@@ -1,0 +1,14 @@
+/Users/sb/dotnetPlayground/Test/AbstractTesting/bin/Debug/net9.0/AbstractTesting
+/Users/sb/dotnetPlayground/Test/AbstractTesting/bin/Debug/net9.0/AbstractTesting.deps.json
+/Users/sb/dotnetPlayground/Test/AbstractTesting/bin/Debug/net9.0/AbstractTesting.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/AbstractTesting/bin/Debug/net9.0/AbstractTesting.dll
+/Users/sb/dotnetPlayground/Test/AbstractTesting/bin/Debug/net9.0/AbstractTesting.pdb
+/Users/sb/dotnetPlayground/Test/AbstractTesting/obj/Debug/net9.0/AbstractTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/AbstractTesting/obj/Debug/net9.0/AbstractTesting.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/AbstractTesting/obj/Debug/net9.0/AbstractTesting.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/AbstractTesting/obj/Debug/net9.0/AbstractTesting.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/AbstractTesting/obj/Debug/net9.0/AbstractTesting.dll
+/Users/sb/dotnetPlayground/Test/AbstractTesting/obj/Debug/net9.0/refint/AbstractTesting.dll
+/Users/sb/dotnetPlayground/Test/AbstractTesting/obj/Debug/net9.0/AbstractTesting.pdb
+/Users/sb/dotnetPlayground/Test/AbstractTesting/obj/Debug/net9.0/AbstractTesting.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/AbstractTesting/obj/Debug/net9.0/ref/AbstractTesting.dll
