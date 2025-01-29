@@ -44,6 +44,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Events", "Events\Events.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldEvent", "RealWorldEvent\RealWorldEvent.csproj", "{2F9B1032-34D8-438F-A970-26B807E00EED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegEx", "RegEx\RegEx.csproj", "{458993D5-79D4-4289-8116-7141BA15CE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithBlazor", "PlayingWithBlazor\PlayingWithBlazor.csproj", "{FF54F836-6400-4049-9C50-BEBC08B6B600}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -122,6 +126,14 @@ Global
 		{2F9B1032-34D8-438F-A970-26B807E00EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F9B1032-34D8-438F-A970-26B807E00EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F9B1032-34D8-438F-A970-26B807E00EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{458993D5-79D4-4289-8116-7141BA15CE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458993D5-79D4-4289-8116-7141BA15CE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458993D5-79D4-4289-8116-7141BA15CE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458993D5-79D4-4289-8116-7141BA15CE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF54F836-6400-4049-9C50-BEBC08B6B600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF54F836-6400-4049-9C50-BEBC08B6B600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF54F836-6400-4049-9C50-BEBC08B6B600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF54F836-6400-4049-9C50-BEBC08B6B600}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

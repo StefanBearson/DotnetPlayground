@@ -1,0 +1,15 @@
+/Users/sb/dotnetPlayground/Test/RegEx/bin/Debug/net9.0/RegEx
+/Users/sb/dotnetPlayground/Test/RegEx/bin/Debug/net9.0/RegEx.deps.json
+/Users/sb/dotnetPlayground/Test/RegEx/bin/Debug/net9.0/RegEx.runtimeconfig.json
+/Users/sb/dotnetPlayground/Test/RegEx/bin/Debug/net9.0/RegEx.dll
+/Users/sb/dotnetPlayground/Test/RegEx/bin/Debug/net9.0/RegEx.pdb
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/RegEx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/RegEx.AssemblyInfoInputs.cache
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/RegEx.AssemblyInfo.cs
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/RegEx.csproj.CoreCompileInputs.cache
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/RegEx.sourcelink.json
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/RegEx.dll
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/refint/RegEx.dll
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/RegEx.pdb
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/RegEx.genruntimeconfig.cache
+/Users/sb/dotnetPlayground/Test/RegEx/obj/Debug/net9.0/ref/RegEx.dll
