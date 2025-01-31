@@ -100,3 +100,4 @@
 /Users/sb/dotnetPlayground/Test/PlayWithXUnit.tests/obj/Debug/net9.0/PlayWithXUnit.tests.pdb
 /Users/sb/dotnetPlayground/Test/PlayWithXUnit.tests/obj/Debug/net9.0/PlayWithXUnit.tests.genruntimeconfig.cache
 /Users/sb/dotnetPlayground/Test/PlayWithXUnit.tests/obj/Debug/net9.0/ref/PlayWithXUnit.tests.dll
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit.tests/obj/Debug/net9.0/PlayWithXUnit.tests.sourcelink.json

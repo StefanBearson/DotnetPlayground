@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlayWithXUnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdec347cd9e56b7704ab7b0ed56d28c79be52be7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8a89b651d6f2e52fd1a5cf3eca3de2c3febaacb")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlayWithXUnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlayWithXUnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,3 +9,4 @@
 /Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/refint/PlayWithXUnit.dll
 /Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/PlayWithXUnit.pdb
 /Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/ref/PlayWithXUnit.dll
+/Users/sb/dotnetPlayground/Test/PlayWithXUnit/obj/Debug/net9.0/PlayWithXUnit.sourcelink.json
