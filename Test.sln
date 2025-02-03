@@ -50,6 +50,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithBlazor", "Playin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayWithConsole", "PlayWithConsole\PlayWithConsole.csproj", "{9E48E99D-2290-44A6-AD51-0D5F8D12C60A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{18353001-F15E-45EF-973C-2D045FBD93E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{6CECC1C3-0376-4A52-B19B-366240E5BCDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -140,6 +144,14 @@ Global
 		{9E48E99D-2290-44A6-AD51-0D5F8D12C60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E48E99D-2290-44A6-AD51-0D5F8D12C60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E48E99D-2290-44A6-AD51-0D5F8D12C60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18353001-F15E-45EF-973C-2D045FBD93E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18353001-F15E-45EF-973C-2D045FBD93E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18353001-F15E-45EF-973C-2D045FBD93E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18353001-F15E-45EF-973C-2D045FBD93E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CECC1C3-0376-4A52-B19B-366240E5BCDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CECC1C3-0376-4A52-B19B-366240E5BCDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CECC1C3-0376-4A52-B19B-366240E5BCDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CECC1C3-0376-4A52-B19B-366240E5BCDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

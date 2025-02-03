@@ -2,10 +2,10 @@
 
 class Program
 {
-    static void Main(string[] args)
+    static void Main()
     {
+        // var test = Environment.GetCommandLineArgs();
         FizzBuss();
-
         int[] myIntArray = new[] { 1, 2, 3, 4, 5 };
         int indexof4 = BinarySearch(myIntArray, 4);
         Console.WriteLine($"Hello, index {indexof4} in the array is {myIntArray[indexof4]}");
@@ -65,3 +65,19 @@ class Program
         return -1;
     }
 }
+public class Person
+{
+    public string Name { get; set; }
+    public DateTime DateOfBirth { get; set; }
+}
+
+public static class PersonExtensions
+{
+    public static int GetAge(this Person person)
+    {
+        return DateTime.Today.Year - person.DateOfBirth.Year;
+    }
+}
+
+
+
