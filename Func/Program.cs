@@ -65,3 +65,23 @@ class myFunc
         Console.WriteLine(message.ToUpper());
     }
 }
+
+class TestAwait
+{
+    public async void Test()
+    {
+        var a = TestThis();
+        await a;
+        
+
+    }
+
+    public Task TestThis()
+    {
+        return new Task(()=>
+        {
+            Console.WriteLine("Hello");
+            var a = "test";
+        });
+    }
+}

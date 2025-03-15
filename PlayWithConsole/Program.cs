@@ -1,83 +1,69 @@
-﻿namespace PlayWithConsole;
+﻿
+enum Direction
+{
+    Right = 0,
+    Down = 3,
+    Left = 2,
+    Up = 1
+}   
 
 class Program
 {
-    static void Main()
+    public static void Main(string[] args)
     {
-        // var test = Environment.GetCommandLineArgs();
-        FizzBuss();
-        int[] myIntArray = new[] { 1, 2, 3, 4, 5 };
-        int indexof4 = BinarySearch(myIntArray, 4);
-        Console.WriteLine($"Hello, index {indexof4} in the array is {myIntArray[indexof4]}");
-    }
-    
-    /// <summary>
-    /// Generates a sequence of numbers from 0 to 29 and prints "Fizz", "Buzz", "FizzBuzz", or the number itself
-    /// based on specific conditions.
-    /// </summary>
-    public static void FizzBuss()
-    {
-        for (int i = 0; i < 30; i++)
+        //initialize grid
+        int height = 13, width = 13;
+        List<List<bool>> grid = new List<List<bool>>();;
+        for(int i = 0; i < height; i++)
         {
-            string result = i switch
+            grid.Add(new List<bool>(Enumerable.Repeat(false, width)));
+        }
+        
+        //set start position
+        int positionx = 0;
+        int positiony = 0;
+        grid[positionx][positiony] = true;
+        
+        //draw the path
+        moveToPosotion((int)Direction.Up, 1);
+        moveToPosotion((int)Direction.Right, width - 2);
+        moveToPosotion((int)Direction.Up, height - 3);
+        moveToPosotion((int)Direction.Left, width - 3);
+        
+        moveToPosotion((int)Direction.Down, 7);
+        moveToPosotion((int)Direction.Right, 7);
+        moveToPosotion((int)Direction.Up, 4);
+        moveToPosotion((int)Direction.Left, 4);
+        moveToPosotion((int)Direction.Down, 2);
+        
+        //print the grid
+        Print();
+        
+        void moveToPosotion(int direction, int moves)
+        {
+            int[] dx = new int[] { 0, 1, 0, -1 };
+            int[] dy = new int[] { 1, 0, -1, 0 };
+            
+            for (int i = 0; i < moves; i++)
             {
-                0 => i.ToString(),
-                int n when n % 5 == 0 => "FizzBuzz",
-                int n when n % 3 == 0 => "Buzz",
-                int n when n % 2 == 0 => "Fizz",
-                _ => i.ToString()
-            };
-            Console.WriteLine(result);
+                positionx += dx[direction];
+                positiony += dy[direction];
+                grid[positionx][positiony] = true;
+            }
         }
 
-        var a = new List<int>();
-        
-        a.AddRange(1,2,3,4,5);
-
-        foreach (int number in a)
+        void Print()
         {
-            Console.WriteLine($"This is the number: {number}");
+            grid.Reverse();
+            for (int i = 0; i < height; i++)
+            {
+                for (int j = 0; j < width; j++)
+                {
+                    Console.Write(grid[i][j] ? "X " : ". ");
+                }
+                Console.WriteLine();
+            }
         }
     }
-
-    /// <summary>
-    /// Performs a binary search on a sorted array to find the target value.
-    /// </summary>
-    /// <param name="array">The sorted array to search.</param>
-    /// <param name="target">The value to search for.</param>
-    /// <returns>
-    /// The index of the target value in the array if found; otherwise, -1.
-    /// </returns>
-    public static int BinarySearch(int[] array, int target)
-    {
-        
-        int left = 0;
-        int right = array.Length - 1;
-        while (left <= right)
-        {
-            int mid = left + (right - left) / 2;
-
-            if (array[mid] == target) return mid;
-            if (array[mid] < target) left = mid + 1;
-            else right = mid - 1;
-        }
-
-        return -1;
-    }
 }
-public class Person
-{
-    public string Name { get; set; }
-    public DateTime DateOfBirth { get; set; }
-}
-
-public static class PersonExtensions
-{
-    public static int GetAge(this Person person)
-    {
-        return DateTime.Today.Year - person.DateOfBirth.Year;
-    }
-}
-
-
 

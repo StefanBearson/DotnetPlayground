@@ -12,3 +12,4 @@
 /Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.pdb
 /Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.genruntimeconfig.cache
 /Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/ref/LeetCodeFun.dll
+/Users/sb/dotnetPlayground/Test/LeetCodeFun/obj/Debug/net9.0/LeetCodeFun.sourcelink.json
